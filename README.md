@@ -70,7 +70,7 @@ Full Stack Developer | Systems Analysis Student 🇦🇷
 
 📫 Contact
 
-<a href="www.linkedin.com/in/facundo-casalegno-cesano" target="_blank">
+<a href="www.linkedin.com/in/facundo-casalegno-cesano-2b03053b7" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a> 
   <a href="mailto:facucasalegno@gmail.com">
