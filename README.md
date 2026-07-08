@@ -7,9 +7,13 @@ Full Stack Developer | Systems Analysis Student 🇦🇷
 🌟 About Me
 
 💻 Full Stack Developer
+
 🎓 Final-year Systems Analysis Student
+
 🚀 Passionate about Web Development
+
 🌱 Learning Software Architecture & AI
+
 📍 Argentina
 
 ────────────────────────────────
