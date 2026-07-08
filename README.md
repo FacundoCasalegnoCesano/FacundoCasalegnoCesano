@@ -1,16 +1,75 @@
-## Hi there 👋
+👋 Hi, I'm Facundo Casalegno Cesano
 
-<!--
-**FacundoCasalegnoCesano/FacundoCasalegnoCesano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Systems Analysis Student 🇦🇷
 
-Here are some ideas to get you started:
+────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+
+💻 Full Stack Developer
+🎓 Final-year Systems Analysis Student
+🚀 Passionate about Web Development
+🌱 Learning Software Architecture & AI
+📍 Argentina
+
+────────────────────────────────
+
+## 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+---
+
+## 🚀 Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,nodejs,tailwind" />
+</p>
+
+---
+
+## 🗄️ Databases & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,prisma" />
+</p>
+
+---
+
+## 💻 IDE
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+---
+
+## 🛠 Other Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,postman" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" alt="Trello" width="48" height="48"/>
+</p>
+
+---
+
+## ☁️ Hosting / SaaS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+────────────────────────────────
+
+
+📫 Contact
+
+<a href="www.linkedin.com/in/facundo-casalegno-cesano-2b03053b7" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a> 
+  <a href="mailto:facucasalegno@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+  </a>
+</p>
